@@ -1,0 +1,12 @@
+~/ws/rails_projects/demo_app
+
+
+  $ git status
+  $ git add .
+  $ git commit -m "Added xiki file"
+    error: Terminal is dumb, but EDITOR unset
+    Please supply the message using either -m or -F option.
+    
+
+  
+
